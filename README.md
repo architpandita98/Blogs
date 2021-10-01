@@ -1,5 +1,5 @@
 # Blogs
-Articles on medium.com
+Articles on MEDIUM
 
 Multiple Inheritance Conflict Resolution Rules (JAVA 8)
 https://panditaarchit98.medium.com/multiple-inheritance-conflict-resolution-rules-java-8-82fb9fec0270
